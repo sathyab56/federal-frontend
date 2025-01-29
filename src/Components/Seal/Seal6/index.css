@@ -1,0 +1,32 @@
+
+
+.seal6container {
+    width: 82mm;
+    height: 42mm;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.seal6bank-title {
+    font-family: 'Diavlo', sans-serif;
+    font-weight: bold;
+    font-size: 8pt;
+    letter-spacing: 0.5px;
+}
+
+.seal6branch-details {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    margin-top: 25px;
+    text-align: right;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.seal6branch-details p {
+    display: block;
+    margin:0%;
+    padding:0%;
+}

@@ -1,0 +1,44 @@
+
+
+.seal7container {
+    width: 72mm;
+    height: 42mm;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.seal7bank-title {
+    font-family: 'Diavlo', sans-serif;
+    font-weight: bold;
+    font-size: 8pt;
+    letter-spacing: 0.5px;
+}
+
+.seal7branch-details {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    margin-top: 25px;
+    font-weight: bold;
+    text-align: right;
+    margin-right: 5px;
+}
+
+.seal7branch-details p{
+    display: block;
+    padding:0%;
+    margin: 0%;
+}
+
+.seal7head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: bold;
+}
+
+.seal7branch{
+    font-size: 9.5pt;
+    font-weight: bold;
+
+}
